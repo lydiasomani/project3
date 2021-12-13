@@ -1,0 +1,59 @@
+body{
+ background-color: white;
+ font-family: 'Readex Pro', sans-serif;
+ width: 100%;
+ margin: 0px;
+ }
+
+ h1{
+   font-family: 'MistoBook';
+   font-weight: normal;
+   font-style: normal;
+   padding-top: 30px;
+ }
+
+h2 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+h4{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+/* for centering because it works(TM) */
+.blockhack {
+  text-align:center; display:block;
+}
+
+img {
+padding-left: 30px;
+padding-right: 30px
+}
+
+p {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+video{
+  display: block;
+  margin: 0 auto;
+}
+
+.box {
+  /* padding-bottom: 20px; */
+  width: 100%;
+  height: 150px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 100px;
